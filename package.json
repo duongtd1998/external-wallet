@@ -1,0 +1,25 @@
+{
+  "name": "external-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziden-dev/external-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziden-dev/external-wallet/issues"
+  },
+  "homepage": "https://github.com/ziden-dev/external-wallet#readme",
+  "dependencies": {
+    "@ethersproject/keccak256": "^5.7.0",
+    "bip39": "^3.0.4",
+    "circomlibjs": "^0.1.7",
+    "sha256": "^0.2.0"
+  }
+}
